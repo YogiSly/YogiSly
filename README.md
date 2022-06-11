@@ -1,12 +1,12 @@
-<h3>Привет, меня зовут Артем, я Frontend-разработчик</h3><br>
+<h3>Привет, меня зовут Артем, я Frontend-разработчик</h3>
 Мой телеграмм <a href="https://t.me/yogisly" target="_blank">@yogisly</a>
+<br>
+<h3>СТЕК</h3>
+<p>JavaScript</p>
+<p>JQuery</p>
+<p>Vue</p>
 
 
-- 👋 Hi, I’m @YogiSly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 YogiSly/YogiSly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
